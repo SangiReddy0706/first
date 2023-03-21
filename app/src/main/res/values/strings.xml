@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">first</string>
+    <string-array name="ques">
+        <item>Who is your favourite actor?</item>
+        <item>How is your Childhood friend?</item>
+        <item>What is the name of your first school?</item>
+    </string-array>
+</resources>
